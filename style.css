@@ -1,0 +1,25 @@
+html, body {
+    height: 90%;
+    font-size: 16px;
+    background-color: rgb(19, 3, 3);
+    font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+  }
+  
+  * {
+    text-align: center;
+    margin: 0;
+  }
+  
+  h1, h2, p {
+    margin: 0.5rem;
+    color: white;
+  }
+  
+  #logsArea {
+    text-align: left;
+    font-size: 0.9rem;
+    resize: none;
+  }
+  #guessInput {
+    height: 40px;
+  }
